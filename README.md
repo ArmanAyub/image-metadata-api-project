@@ -30,7 +30,7 @@ Caching dramatically improves performance for repeated image analyses. The first
 
 **Clone the repository:**
 """
-git clone https://github.com/your-username/image-api-project.git
+git clone https://github.com/ArmanAyub/image-metadata-api-project.git
 cd image-api-project
 """
 
